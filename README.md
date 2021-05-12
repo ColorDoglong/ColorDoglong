@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majianlong123)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majianlong123&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m 老色批
 -👀我对vue php感兴趣
 -🌱我正在学习php
