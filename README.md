@@ -1,9 +1,10 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majianlong123&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-- 👋 Hi, I’m 老色批
--👀我对vue php感兴趣
--🌱我正在学习php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 你好,我是老色批
+- 👀我对vue php感兴趣
+- 🌱我正在学习php
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 majianlong123/majianlong123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
